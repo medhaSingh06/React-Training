@@ -1,0 +1,7 @@
+Things to do in food order
+1. one form--to add the new items
+2. form won't be create-- will be done by admin
+2. display --including number of items-- and add butn
+3. on click of cart--- see the modal--- contains- items and price and total price -- btn- cancel and confirm
+4. if confim then other modal-- order confirm
+5. a toast message for add btn
