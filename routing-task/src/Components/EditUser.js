@@ -46,7 +46,7 @@ export const EditUser = (props) => {
 
         <button
           type='submit'
-        >Submit</button>
+        >Update</button>
       </form>
         </> : (<p>NULL</p>)
     }
